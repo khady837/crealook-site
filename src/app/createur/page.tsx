@@ -10,7 +10,7 @@ fontFamily: 'sans-serif',
 backgroundColor: '#fff5f8',
 minHeight: '100vh'
 }}>
-<h1 style={{ color: '#b3005e', fontSize: '2.5rem' }}>Bienvenue sur l’espace créateur de CréaLook</h1>
+<h1 style={{ color: '#b3005e', fontSize: '2.5rem' }}>Bienvenue sur l&space créateur de CréaLook</h1>
 
 <p style={{ fontSize: '1.2rem', marginTop: '1rem', color: '#333' }}>
 Ici, vous pouvez créer votre profil, présenter vos produits, gérer vos ventes, et rejoindre une communauté d’entrepreneurs locaux.
